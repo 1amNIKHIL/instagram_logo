@@ -1,2 +1,2 @@
 # instagram_logo
- By HTML &amp;CSS code 
+ By HTML &amp; CSS code 
